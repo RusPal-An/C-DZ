@@ -1,0 +1,15 @@
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\bin\Debug\net6.0\zadacha4.exe
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\bin\Debug\net6.0\zadacha4.deps.json
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\bin\Debug\net6.0\zadacha4.runtimeconfig.json
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\bin\Debug\net6.0\zadacha4.dll
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\bin\Debug\net6.0\zadacha4.pdb
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\zadacha4.csproj.AssemblyReference.cache
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\zadacha4.AssemblyInfoInputs.cache
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\zadacha4.AssemblyInfo.cs
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\zadacha4.csproj.CoreCompileInputs.cache
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\zadacha4.dll
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\refint\zadacha4.dll
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\zadacha4.pdb
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\zadacha4.genruntimeconfig.cache
+D:\Education\Новая папка\seminars C#\DZ\zadacha4\obj\Debug\net6.0\ref\zadacha4.dll
